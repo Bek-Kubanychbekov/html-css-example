@@ -1,0 +1,10 @@
+git init 
+git add style.css
+git commit -m "frist commit"
+git push
+p{
+
+}
+div{
+    background-color: rgb(red, green, blue);
+}
